@@ -26,6 +26,14 @@ export default function Home({ allPostsData }) {
           If you would like to see what projects I'm currently working on visit my{' '}
           <a href="https://github.com/SourCreamCulture">github</a>.
         </p>
+        <p>
+        Follow Me Online Here:
+        <ul>
+       <li><a href="https://github.com/SourCreamCulture">GitHub</a></li>
+       <li><a href="https://jurassic.host/discord">Discord</a></li>
+       <li><a href="https://youtube.com">YouTube</a></li>
+        </ul>
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
