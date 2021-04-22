@@ -5,13 +5,13 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Dallin Bland'
-export const siteTitle = 'Home | Blog'
+export const siteTitle = 'Home | Dallin Bland Blog'
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/images/profile.jpg" />
+        <link rel="icon" href="/images/coolhouse.png" />
         <meta
           name="description"
           content="The dev blog of Dallin Bland"
