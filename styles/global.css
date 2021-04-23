@@ -25,3 +25,14 @@ img {
   max-width: 100%;
   display: block;
 }
+/* width */
+::-webkit-scrollbar {
+  width: 9px;
+}
+
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: black; 
+  border-radius: 10px;
+}
