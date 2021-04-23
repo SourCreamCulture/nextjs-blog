@@ -35,7 +35,7 @@ Create a file in your workspace called "index.js", once you have that done copy 
 
 ```js
 const discord = require('discord.js');
-const client = new discord.Client;
+const client = new discord.Client();
 
 const token = 'place bot token here';
 const prefix = '!';
