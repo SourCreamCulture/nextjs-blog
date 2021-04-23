@@ -31,12 +31,12 @@ export default function Home({ allPostsData }) {
         <ul>
        <li><a href="https://github.com/SourCreamCulture">GitHub</a></li>
        <li><a href="https://jurassic.host/discord">Discord</a></li>
-       <li><a href="https://youtube.com">YouTube</a></li>
+       <li><a href="https://www.youtube.com/channel/UCFRbYyYl_g9pVvyIsxqVTCQ">YouTube</a></li>
         </ul>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Blog Posts</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
