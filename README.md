@@ -1,1 +1,1 @@
-This is a dev blog I created using [nextjs](https://nextjs.org)
+This is a dev blog I created using [nextjs](https://nextjs.org) you can access it [here](https://blandy.xyz)
