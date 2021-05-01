@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
         Follow Me Online Here:
         <ul>
        <li><a href="https://github.com/SourCreamCulture">GitHub</a></li>
-       <li><a href="https://jurassic.host/discord">Discord</a></li>
+       <li><a href="https://discord.io/sourcream">Discord</a></li>
        <li><a href="https://www.youtube.com/channel/UCFRbYyYl_g9pVvyIsxqVTCQ">YouTube</a></li>
         </ul>
         </p>
