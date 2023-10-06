@@ -10,7 +10,7 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
 
-        <script async src="https://arc.io/widget.min.js#yKNk7EkZ"></script>
+        <script async src="https://arc.io/widget.min.js#5MnyVmqp"></script>
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>
