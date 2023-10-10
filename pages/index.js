@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hey!, I'm Dallin a wannabe fullstack developer!</p>
+        <p>Hey!, I'm Dallin and I am currently Studying Software Engineering at BYU Idaho.</p>
         <p>
           If you would like to see what projects I'm currently working on visit my{' '}
           <a href="https://github.com/SourCreamCulture">github</a>.
@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
         Follow Me Online Here:
         <ul>
        <li><a href="https://github.com/SourCreamCulture">GitHub</a></li>
-       <li><a href="https://discord.com">Discord</a></li>
+       <li>Discord: sourcreamculture</li>
        <li><a href="https://www.linkedin.com/in/dallin-bland-701a56291/">Linkedin</a></li>
         </ul>
         </p>
