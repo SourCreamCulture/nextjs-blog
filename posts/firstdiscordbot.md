@@ -27,9 +27,9 @@ Now go to the [nodejs download site](https://nodejs.org/en/download/) and downlo
 
 Then go to the [visual studio code download site](https://code.visualstudio.com/download) and download vscode onto your machine.
 
-Now to make things simpler create a folder on your desktop called "discord-bot", then open up vscode and you will probably see a welcome screen. Look at the welcome screen and there should be a button that says open a project or folder or something like that. Click on that button and choose the folder you just make on your desktop.
+Now to make things simpler create a folder on your desktop called "discord-bot", then open up vscode and you will probably see a welcome screen. Look at the welcome screen and there should be a button that says open a project or folder or something like that. Click on that button and choose the folder you just made on your desktop.
 
-When the workspace has shown up, open the terminal in vscode and run the command "npm init" and press enter for all of the options it gives you in the terminal. Now run the command "npm install discord.js"  in the terminal that you just used.
+When the workspace has shown up, open the terminal in vscode and run the command "npm init" and press enter for all of the options it gives you in the terminal. Now run the command "npm install discord.js" in the terminal that you just used.
 
 Create a file in your workspace called "index.js", once you have that done copy and paste in the code below.
 
